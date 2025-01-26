@@ -1,1 +1,1 @@
-![alt text] (./software.png)
+![alt text](./software.png)
