@@ -12,7 +12,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - Currently completing the ``Common Core`` at 42 Porto
 - Currently completing the ``Chemical Engineering degree`` at FEUP
 
-![alt text](./blobb.gif)
+![alt text](./bolbb.gif)
 
 <div align="center" style="margin-top: -30px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
