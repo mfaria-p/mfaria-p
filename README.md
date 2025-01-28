@@ -12,11 +12,12 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - Currently completing the ``Common Core`` at 42 Porto
 - Currently completing the ``Chemical Engineering degree`` at FEUP
 
+<div style="text-align: center;">
+  <img src="./blobb.gif" alt="alt text" />
+</div>
 
-
-<!-- <div style="position: relative; width: 100%; height: 100%; margin: auto;">
-  <img src="bolb2.png" style="top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"/>
-  <a href="https://github.com/anuraghazra/convoychat" style="position: absolute; left: 210px; top: 50px; display: block; z-index: 1;">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=mfaria-p&hide=GLSL&layout=compact&bg_color=0d1117&title_color=349ff6&text_color=ce36af&hide_border=true&langs_count=8&card_width=320" />
+<div style="text-align: center; margin-top: -20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaria-p&hide=GLSL&layout=compact&bg_color=0d1117&title_color=349ff6&text_color=ce36af&hide_border=true&langs_count=8&card_width=350" alt="Top Langs" />
   </a>
-</div> -->
+</div>
