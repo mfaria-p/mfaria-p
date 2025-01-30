@@ -12,10 +12,9 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - Currently completing the ``Common Core`` at 42 Porto
 - Currently completing the ``Chemical Engineering degree`` at FEUP
 
-![alt text](./bolbb.gif)
-
-<div align="center" style="margin-top: -30px;">
+<div align="center">
+  <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaria-p&hide=GLSL&layout=compact&bg_color=0d1117&title_color=349ff6&text_color=ce36af&hide_border=true&langs_count=8&card_width=350" alt="Top Langs" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaria-p&hide=GLSL&layout=compact&bg_color=0d1117&title_color=349ff6&text_color=ce36af&hide_border=false&langs_count=8&card_width=350" alt="Top Langs" />
   </a>
 </div>
