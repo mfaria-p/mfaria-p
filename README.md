@@ -1,4 +1,4 @@
-![alt text](./software1.png)
+![alt text](./header.gif)
 
 ## About me:
 I'm **Mariana Pereira**, and my passion for programming and technology has been a constant driving force throughout my journey. While pursuing my degree in ``Chemical Engineering``, I expanded my technical skills by delving into **Python**, applying web scraping techniques, and working with artificial neural networks during insightful internships.
