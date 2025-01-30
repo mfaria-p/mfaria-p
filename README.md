@@ -7,10 +7,18 @@ Currently, I am also a student at the ``42 School's Common Core`` program, where
 
 With a strong foundation in engineering and a growing repertoire of programming tools, I am excited to tackle challenges at the intersection of technology and innovation.
 
-- Languages: ``C``  ``C++``  ``Python``
-- Interest in Machine Learning and Artificial Inteligence
-- Currently completing the ``Common Core`` at 42 Porto
-- Currently completing the ``Chemical Engineering degree`` at FEUP
+- 💻 Languages: ``C``  ``C++``  ``Python``
+- 🧠 Interest in Machine Learning and Artificial Inteligence
+- 👩🏽‍💻 Currently completing the ``Common Core`` at 42 Porto
+- 🎓 Currently completing the ``Chemical Engineering degree`` at FEUP
+
+## Skills:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,tensorflow,vscode,bash,ubuntu,debian" />
+  </a>
+</p>
 
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
