@@ -16,7 +16,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,tensorflow,vscode,bash,ubuntu,debian" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,tensorflow,pytorch,vscode,bash,ubuntu,debian" />
   </a>
 </p>
 
