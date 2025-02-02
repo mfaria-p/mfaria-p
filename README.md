@@ -20,9 +20,18 @@ With a strong foundation in engineering and a growing repertoire of programming 
   </a>
 </p>
 
+## Projects:
+
+<details open>
+<summary style="font-size: 2.5em;"> <b>Python</b></summary>
+  
+- [Web scraping](https://github.com/mfaria-p/Webscrapping_zeolites.git) ->  creation of a database of zeolite properties using web scraping techniques
+- [ANN Intro]() ->
+
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaria-p&hide=GLSL&layout=compact&bg_color=0d1117&title_color=349ff6&text_color=ce36af&hide_border=false&langs_count=8&card_width=350" alt="Top Langs" />
   </a>
 </div>
+
