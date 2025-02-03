@@ -26,7 +26,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 <summary style="font-size: 2.5em;"> <b>Python</b></summary>
   
 - [Web scraping](https://github.com/mfaria-p/Webscrapping_zeolites.git) ->  creation of a database of zeolite properties using web scraping techniques
-- [ANN Introduction](https://github.com/mfaria-p/Machine_learning_ANN.git) -> my introduction to machine learning, focusing on building and training Artificial Neural Networks using PyTorch
+- [ANN Introduction](https://github.com/mfaria-p/Machine_learning_ANN.git) -> Introduction to Machine Learning with a focus on building and training Artificial Neural Networks using PyTorch 
 
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
