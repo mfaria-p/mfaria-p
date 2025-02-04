@@ -27,7 +27,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
   
 - [Web scraping](https://github.com/mfaria-p/Webscrapping_zeolites.git) ->  Creation of a Database of zeolite properties using web scraping techniques
 - [ANN Introduction](https://github.com/mfaria-p/Machine_learning_ANN.git) -> Introduction to Machine Learning, focusing on building and training Artificial Neural Networks using PyTorch
-- [MatPropNet](https://github.com/mfaria-p/MatPropNet.git) -> A Machine Learning framework designed for predicting various properties of materials using neural networks
+- [ZeoPropNet](https://github.com/mfaria-p/MatPropNet.git) -> A Machine Learning framework designed for predicting various properties of materials using neural networks
 
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
