@@ -29,6 +29,9 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - [ANN Introduction](https://github.com/mfaria-p/Machine_learning_ANN.git) -> Introduction to Machine Learning, focusing on building and training Artificial Neural Networks using PyTorch
 - [ZeoPropNet](https://github.com/mfaria-p/MatPropNet.git) -> A Machine Learning framework designed for predicting various properties of materials using neural networks
 
+<details open>
+<summary style="font-size: 2.5em;"> <b>C</b></summary>
+
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
