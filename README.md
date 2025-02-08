@@ -29,8 +29,16 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - [ANN Introduction](https://github.com/mfaria-p/Machine_learning_ANN.git) -> Introduction to Machine Learning, focusing on building and training Artificial Neural Networks using PyTorch
 - [ZeoPropNet](https://github.com/mfaria-p/MatPropNet.git) -> A Machine Learning framework designed for predicting various properties of materials using neural networks
 
+<br>
+
+</details>
+
 <details open>
-<summary style="font-size: 2.5em;"> <b>C</b></summary>
+<summary style="font-size: 2.5em;"> <b>42 Projects</b></summary>
+
+### Individual Projects
+- [C Piscine](https://github.com/mfaria-p/42-Piscine.git) ->  An intense month-long coding bootcamp where I learned C, shell scripting, and problem-solving through peer-driven challenges
+
 
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
