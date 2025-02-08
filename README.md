@@ -40,6 +40,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - [C Piscine](https://github.com/mfaria-p/42-Piscine.git) ->  An intense month-long coding bootcamp learning C, shell scripting, and peer-driven problem-solving
 - [Libft](https://github.com/mfaria-p/libft.git) ->  First project of the 42 Common Core, recreating essential C library functions to deepen my understanding and prep for advanced work
 - [ft_printf](https://github.com/mfaria-p/ft_printf.git) -> a custom implementation of the printf function in C
+- [get_next_line](https://github.com/mfaria-p/get_next_line.git) -> provides a function to read content line by line from files or standard input, essential for sequential text data processing
 
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
