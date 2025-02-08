@@ -38,7 +38,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 
 ### Individual Projects
 - [C Piscine](https://github.com/mfaria-p/42-Piscine.git) ->  An intense month-long coding bootcamp learning C, shell scripting, and peer-driven problem-solving
-- [Libft](https://github.com/mfaria-p/libft.git) ->  First project of the 42 Common Core, recreating essential C library functions to deepen understanding and prep for advanced work
+- [Libft](https://github.com/mfaria-p/libft.git) ->  First project of the 42 Common Core, recreating essential C library functions to deepen my understanding and prep for advanced work
 
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
