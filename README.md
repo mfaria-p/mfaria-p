@@ -43,6 +43,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - [get_next_line](https://github.com/mfaria-p/get_next_line.git) -> provides a function to read content line by line from files or standard input, essential for sequential text data processing
 - [so_long](https://github.com/mfaria-p/so_long.git) -> A 2D tile-based adventure game where a knight collects all the mushrooms before reaching home
 - [minitalk](https://github.com/mfaria-p/minitalk.git) -> UNIX signal-based messaging system between a client and a server
+- [push_swap](https://github.com/mfaria-p/push_swap.git) -> a stack-based sorting algorithm using minimal operations to efficiently order integers
 
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
