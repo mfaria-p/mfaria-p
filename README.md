@@ -41,6 +41,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - [Libft](https://github.com/mfaria-p/libft.git) ->  First project of the 42 Common Core, recreating essential C library functions to deepen my understanding and prep for advanced work
 - [ft_printf](https://github.com/mfaria-p/ft_printf.git) -> a custom implementation of the printf function in C
 - [get_next_line](https://github.com/mfaria-p/get_next_line.git) -> provides a function to read content line by line from files or standard input, essential for sequential text data processing
+- [so_long](https://github.com/mfaria-p/so_long.git) -> A 2D tile-based adventure game where a knight collects all the mushrooms before reaching home
 
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
