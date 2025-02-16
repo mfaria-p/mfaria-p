@@ -54,6 +54,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - [so_long](https://github.com/mfaria-p/so_long.git) -> A 2D tile-based adventure game where a knight collects all the mushrooms before reaching home
 - [minitalk](https://github.com/mfaria-p/minitalk.git) -> UNIX signal-based messaging system between a client and a server
 - [push_swap](https://github.com/mfaria-p/push_swap.git) -> a stack-based sorting algorithm using minimal operations to efficiently order integers
+- [Philosophers](https://github.com/mfaria-p/Philosophers.git) -> A thread-safe simulation of the Dining Philosophers Problem using POSIX threads and mutex locks
 
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
