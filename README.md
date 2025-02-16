@@ -30,7 +30,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
   </a>
 </p>
 
-## Projects:
+## My Projects:
 
 <details open>
 <summary style="font-size: 2.5em;"> <b>Python</b></summary>
