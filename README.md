@@ -1,7 +1,17 @@
 ![alt text](./header.gif)
 
+<h1 align="center">Hi 👋, I'm MARIANA PEREIRA</h1>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&center=true&lines=👩‍🔬+Chemical+Engineer+%26+💻+Programmer;🚀+Exploring+Machine+Learning+%26+AI+🧠;⚙️+C+%7C+C%2B%2B+%7C+Python+🐍;📚+Building+%26+Learning+Every+Day+🔥" />
+  </a>
+</p>
+
+
 ## About me:
-I'm **Mariana Pereira**, and my passion for programming and technology has been a constant driving force throughout my journey. While pursuing my degree in ``Chemical Engineering``, I expanded my technical skills by delving into **Python**, applying web scraping techniques, and working with artificial neural networks during insightful internships.
+My passion for programming and technology has been a constant driving force throughout my journey. While pursuing my degree in ``Chemical Engineering``, I expanded my technical skills by delving into **Python**, applying web scraping techniques, and working with artificial neural networks during insightful internships.
 
 Currently, I am also a student at the ``42 School's Common Core`` program, where I am honing my expertise in **Shell Scripting**, **C**, **C++**, and more. This unique project-based and peer-to-peer learning environment has allowed me to develop not only technical proficiency but also collaboration and problem-solving skills.
 
