@@ -56,6 +56,9 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - [push_swap](https://github.com/mfaria-p/push_swap.git) -> a stack-based sorting algorithm using minimal operations to efficiently order integers
 - [Philosophers](https://github.com/mfaria-p/Philosophers.git) -> A thread-safe simulation of the Dining Philosophers Problem using POSIX threads and mutex locks
 
+### Group Projects
+- [minishell](https://github.com/mfaria-p/minishell.git) -> simple shell implementation mimicking GNU Bash, supporting built-in commands, redirections, pipes, and signal handling
+
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
