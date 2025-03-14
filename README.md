@@ -11,7 +11,7 @@
 
 
 ## About me:
-My passion for programming and technology has been a constant driving force throughout my journey. While pursuing my degree in ``Chemical Engineering``, I expanded my technical skills by delving into **Python**, applying web scraping techniques, and working with artificial neural networks during insightful internships.
+My passion for programming and technology has been a constant driving force throughout my journey. While pursuing my degree in ``Chemical Engineering`` at Faculty of Engineering of the University of Porto (FEUP), I expanded my technical skills by delving into **Python**, applying web scraping techniques, and working with artificial neural networks during insightful internships.
 
 Currently, I am also a student at the ``42 School's Common Core`` program, where I am honing my expertise in **Shell Scripting**, **C**, **C++**, and more. This unique project-based and peer-to-peer learning environment has allowed me to develop not only technical proficiency but also collaboration and problem-solving skills.
 
