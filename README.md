@@ -19,11 +19,11 @@
 ## About me:
 My passion for programming and technology has been a constant driving force throughout my journey. While pursuing my degree in ``Chemical Engineering`` at Faculty of Engineering of the University of Porto (FEUP), I expanded my technical skills by delving into **Python**, applying web scraping techniques, and working with artificial neural networks during insightful internships.
 
-Currently, I am also a student at the ``42 School's Common Core`` program, where I am honing my expertise in **Shell Scripting**, **C**, **C++**, and more. This unique project-based and peer-to-peer learning environment has allowed me to develop not only technical proficiency but also collaboration and problem-solving skills.
+Currently, I am also a student at the ``42 School's Common Core`` program, where I am honing my expertise in **Shell Scripting**, **C**, **C++**, and more. This unique project-based and peer-to-peer learning environment has allowed me to develop not only technical proficiency but also collaboration and problem-solving skills. Many of the projects displayed here were made following this course.
 
 With a strong foundation in engineering and a growing repertoire of programming tools, I am excited to tackle challenges at the intersection of technology and innovation.
 
-- 💻 Languages: ``C``  ``C++``  ``Python``
+- 💻 Languages: ``C``  ``C++``  ``Python`` 
 - 🧠 Interest in Machine Learning and Artificial Inteligence
 - 👩🏽‍💻 Currently completing the ``Common Core`` at 42 Porto
 - 🎓 Currently completing the ``Chemical Engineering degree`` at FEUP
@@ -38,19 +38,24 @@ With a strong foundation in engineering and a growing repertoire of programming 
 
 ## My Projects:
 
+
 <details open>
-<summary style="font-size: 2.5em;"> <b>Python</b></summary>
+<summary style="font-size: 2.5em;"> 🐍 <b>Python</b></summary>
   
 - [Web scraping](https://github.com/mfaria-p/Webscrapping_zeolites.git) ->  Creation of a Database of zeolite properties using web scraping techniques
 - [ANN Introduction](https://github.com/mfaria-p/Machine_learning_ANN.git) -> Introduction to Machine Learning, focusing on building and training Artificial Neural Networks using PyTorch
-- [ZeoPropNet](https://github.com/mfaria-p/MatPropNet.git) -> A Machine Learning framework designed for predicting various properties of materials using neural networks
-
-<br>
+- [ZeoPropNet](https://github.com/mfaria-p/MatPropNet.git) -> A Machine Learning framework designed for predicting various properties of materials using neural network
 
 </details>
 
 <details open>
-<summary style="font-size: 2.5em;"> <b>42 Projects</b></summary>
+<summary style="font-size: 2.5em;"> 🗃️ <b>SQL</b></summary>
+
+- [SQL for Data Science](https://github.com/mfaria-p/SQL_DataScience.git) -> SQL and Python projects showcasing database management and data analysis skills from IBM’s SQL for Data Science course
+</details>
+
+<details close>
+<summary style="font-size: 2.5em;"> 🔧 <b>C</b></summary>
 
 ### Individual Projects
 - [C Piscine](https://github.com/mfaria-p/42-Piscine.git) ->  An intense month-long coding bootcamp learning C, shell scripting, and peer-driven problem-solving
@@ -66,10 +71,20 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - [minishell](https://github.com/mfaria-p/minishell.git) -> simple shell implementation mimicking GNU Bash, supporting built-in commands, redirections, pipes, and signal handling
 - [miniRT](https://github.com/Corona040/miniRT.git) ->  lightweight raytracer rendering 3D scenes with ray-object intersection, Phong lighting, and interactive camera/object controls using MiniLibX.
 
+</details>
+
+<details close>
+<summary style="font-size: 2.5em;"> 🤖 <b>C++</b></summary>
+
+- [Arduino Assembly line](https://github.com/mfaria-p/EBEC_Arduino_Autoline.git) -> Arduino-based auto assembly line with conveyor, crane, stamper, and box closer — built in 24h for EBEC '25.
+</details>
+
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaria-p&hide=GLSL&layout=compact&bg_color=0d1117&title_color=349ff6&text_color=ce36af&hide_border=false&langs_count=8&card_width=350" alt="Top Langs" />
   </a>
 </div>
+
+
 
