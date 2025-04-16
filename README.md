@@ -5,10 +5,16 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&center=true&lines=👩‍🔬+Chemical+Engineer+%26+💻+Programmer;🚀+Exploring+ML+%26+AI+🧠;⚙️+C+%7C+C%2B%2B+%7C+Python+🐍;📚+Building+%26+Learning+Every+Day+🔥" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Chemical%20Engineer%20%26%20Programmer;Exploring%20ML%20%26%20AI;C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20SQL;Building%20%26%20Learning%20Every%20Day&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
+<!-- <p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!--  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&center=true&lines=👩‍🔬+Chemical+Engineer+%26+💻+Programmer;🚀+Exploring+ML+%26+AI+🧠;⚙️+C+%7C+C%2B%2B+%7C+Python+🐍;📚+Building+%26+Learning+Every+Day+🔥" />
+  </a>
+</p> -->
 
 ## About me:
 My passion for programming and technology has been a constant driving force throughout my journey. While pursuing my degree in ``Chemical Engineering`` at Faculty of Engineering of the University of Porto (FEUP), I expanded my technical skills by delving into **Python**, applying web scraping techniques, and working with artificial neural networks during insightful internships.
