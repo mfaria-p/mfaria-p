@@ -76,6 +76,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 <details close>
 <summary style="font-size: 2.5em;"> 🤖 <b>C++</b></summary>
 
+- [C++ Modules](https://github.com/mfaria-p/CPP_Modules.git) ->  Mastering C++ from the ground up through the 42 Common Core curriculum – covering OOP, memory management, inheritance, templates, STL, and more
 - [Arduino Assembly line](https://github.com/mfaria-p/EBEC_Arduino_Autoline.git) -> Arduino-based auto assembly line with conveyor, crane, stamper, and box closer — built in 24h for EBEC '25.
 </details>
 
