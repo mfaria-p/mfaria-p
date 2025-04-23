@@ -69,7 +69,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 
 ### Group Projects
 - [minishell](https://github.com/mfaria-p/minishell.git) -> simple shell implementation mimicking GNU Bash, supporting built-in commands, redirections, pipes, and signal handling
-- [miniRT](https://github.com/Corona040/miniRT.git) ->  lightweight raytracer rendering 3D scenes with ray-object intersection, Phong lighting, and interactive camera/object controls using MiniLibX.
+- [miniRT](https://github.com/mfaria-p/miniRT.git) ->  lightweight raytracer rendering 3D scenes with ray-object intersection, Phong lighting, and interactive camera/object controls using MiniLibX.
 
 </details>
 
