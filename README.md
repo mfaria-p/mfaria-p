@@ -32,7 +32,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,tensorflow,pytorch,vscode,bash,ubuntu,r" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,tensorflow,pytorch,vscode,bash,ubuntu,r,latex" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ With a strong foundation in engineering and a growing repertoire of programming 
 - [SQL for Data Science](https://github.com/mfaria-p/SQL_DataScience.git) -> SQL and Python projects showcasing database management and data analysis skills from IBM’s SQL for Data Science course
 </details>
 
-<details close>
+<details open>
 <summary style="font-size: 2.5em;"> 🔧 <b>C</b></summary>
 
 ### Individual Projects
