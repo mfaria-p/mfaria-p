@@ -81,6 +81,11 @@ With a strong engineering foundation and an expanding repertoire of programming 
 - [Arduino Assembly line](https://github.com/mfaria-p/EBEC_Arduino_Autoline.git) -> Arduino-based auto assembly line with conveyor, crane, stamper, and box closer — built in 24h for EBEC '25.
 </details>
 
+<details open>
+<summary style="font-size: 2.5em;"> 🖥️ <b>Web Development</b></summary>
+
+- [Inception](https://github.com/mfaria-p/inception.git) ->  Custom containerized WordPress site using Docker Compose with three Alpine-based services: Nginx, WordPress, and MariaDB
+
 <div align="center">
   <img src="./bolbb.gif" alt="alt text" style="display: block; margin: 0 auto -20px auto;" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
