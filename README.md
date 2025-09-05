@@ -1,12 +1,11 @@
 ![alt text](./header.gif)
 
 <h1 align="center">Hi 👋, I'm MARIANA PEREIRA</h1>
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Chemical%20Engineer%20%26%20Programmer;Exploring%20ML%20%26%20AI;C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20SQL;Building%20%26%20Learning%20Every%20Day&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" />
-  </a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=MSc%20Student%20in%20Data%20Science%20%26%20Engineering%20%40%20FEUP;Programming%20Student%20%40%2042%20Porto;Python%20%7C%20C%20%7C%20C%2B%2B%20%7C%20SQL;Exploring%20Machine%20Learning%20%26%20AI&font=Fira%20Code&center=true&width=650&height=45&vCenter=true&pause=1000&size=22" />
+</a>
 </p>
 
 <!-- <p align="center">
