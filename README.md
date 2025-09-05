@@ -17,16 +17,18 @@
 </p> -->
 
 ## About me:
-My passion for programming and technology has been a constant driving force throughout my journey. While pursuing my degree in ``Chemical Engineering`` at Faculty of Engineering of the University of Porto (FEUP), I expanded my technical skills by delving into **Python**, applying web scraping techniques, and working with artificial neural networks during insightful internships.
+My passion for programming and technology has been a constant driver throughout my journey. I hold a background in Chemical Engineering from FEUP and am now pursuing a Master’s in Data Science and Engineering at the Faculty of Engineering of the University of Porto (FEUP).
 
-Currently, I am also a student at the ``42 School's Common Core`` program, where I am honing my expertise in **Shell Scripting**, **C**, **C++**, and more. This unique project-based and peer-to-peer learning environment has allowed me to develop not only technical proficiency but also collaboration and problem-solving skills. Many of the projects displayed here were made following this course.
+During my undergraduate studies, I expanded my technical skills through internships where I applied Python for web scraping, data structuring, and predictive modeling using machine learning techniques. These experiences strengthened my interest in AI and motivated me to advance into data science research and applications.
 
-With a strong foundation in engineering and a growing repertoire of programming tools, I am excited to tackle challenges at the intersection of technology and innovation.
+Alongside my Master’s, I am completing the Common Core program at 42 Porto, a project-based curriculum focused on C, C++, Shell scripting, and low-level programming. This environment challenges me daily to write efficient code, debug complex problems, and collaborate effectively in peer-driven projects. Many of the repositories you’ll find here reflect projects from this program as well as personal explorations.
+
+With a strong engineering foundation and an expanding repertoire of programming tools, I am eager to build solutions at the intersection of data science, AI, and software development.
 
 - 💻 Languages: ``C``  ``C++``  ``Python`` 
-- 🧠 Interest in Machine Learning and Artificial Inteligence
+- 🧠 Interests: Machine Learning, Artificial Intelligence, Data-Driven Engineering
 - 👩🏽‍💻 Currently completing the ``Common Core`` at 42 Porto
-- 🎓 Currently completing the ``Chemical Engineering degree`` at FEUP
+- 🎓 Currently completing the ``Master’s in Data Science & Engineering`` at FEUP
 
 ## Skills:
 
