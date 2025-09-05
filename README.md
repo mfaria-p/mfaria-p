@@ -33,7 +33,7 @@ With a strong engineering foundation and an expanding repertoire of programming 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,tensorflow,pytorch,vscode,bash,ubuntu,r,latex" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,tensorflow,pytorch,vscode,bash,ubuntu,docker,nginx,r,latex" />
   </a>
 </p>
 
