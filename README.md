@@ -74,7 +74,7 @@ With a strong engineering foundation and an expanding repertoire of programming 
 
 </details>
 
-<details close>
+<details open>
 <summary style="font-size: 2.5em;"> 🤖 <b>C++</b></summary>
 
 - [C++ Modules](https://github.com/mfaria-p/CPP_Modules.git) ->  Mastering C++ from the ground up through the 42 Common Core curriculum – covering OOP, memory management, inheritance, templates, STL, and more
